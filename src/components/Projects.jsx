@@ -19,7 +19,7 @@ const projects = [
     image: portfolioImg,
     description:
         'A responsive personal portfolio website built to showcase my skills, projects, internships, and certifications with a clean and modern user interface.',
-    github: 'https://github.com/Rashmika28/Portfolio-Website',
+    github: 'https://github.com/Rashmika28/Portfolio_Website',
     tags: ['HTML','CSS', 'JavaScript'],
 
   }
