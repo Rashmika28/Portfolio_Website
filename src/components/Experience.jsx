@@ -3,22 +3,31 @@ import React from 'react';
 import { Briefcase } from 'lucide-react';
 
 const experiences = [
-  
   {
     title: 'Advanced Software Engineering Job Simulation',
-company: 'Walmart Global Tech | Forage',
-location: 'Virtual',
-duration: 'August 2025',
-details: [
-  'Completed an advanced software engineering job simulation program.',
-  'Worked on Advanced Data Structures concepts.',
-  'Gained hands-on experience with Software Architecture principles.',
-  'Learned and applied Relational Database Design techniques.',
-  'Performed Data Munging tasks to process and prepare data efficiently.'
-]
-
+    company: 'Walmart Global Tech | Forage',
+    location: 'Virtual',
+    duration: 'August 2025',
+    details: [
+      'Completed an advanced software engineering job simulation program.',
+      'Worked on Advanced Data Structures concepts.',
+      'Gained hands-on experience with Software Architecture principles.',
+      'Learned and applied Relational Database Design techniques.',
+      'Performed Data Munging tasks to process and prepare data efficiently.',
+    ],
   },
-  
+  {
+    title: 'Data Analytics Job Simulation',
+    company: 'Deloitte',
+    location: 'Virtual',
+    duration: 'January 2026',
+    details: [
+      'Completed a Deloitte Data Analytics Job Simulation certificate program.',
+      'Performed practical tasks in data analysis and forensic technology.',
+      'Completed the program during December 2025 to January 2026.',
+      'Earned a Certificate of Completion in Data Analytics Job Simulation.',
+    ],
+  },
 ];
 
 function Experience() {

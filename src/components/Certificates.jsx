@@ -13,6 +13,17 @@ const certificates = [
     ],
   },
   {
+    title: "Data Analytics Job Simulation",
+    issuer: "Deloitte",
+    date: "January 2026",
+    points: [
+      "Completed Deloitte Data Analytics Job Simulation certificate",
+      "Performed practical data analysis tasks",
+      "Learned forensic technology applications",
+      "Gained hands-on experience in real-world scenarios",
+    ],
+  },
+  {
     title: "30 Days MasterClass in Full Stack Development",
     issuer: "NoviTech R&D Private Limited",
     date: "June 2025 – July 2025",

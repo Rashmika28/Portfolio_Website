@@ -2,6 +2,7 @@ import React from 'react';
 import { FaGithub, FaExternalLinkAlt, FaFolderOpen } from 'react-icons/fa';
 import groceryImg from '../assets/grocery.jpg';
 import portfolioImg from '../assets/portfolio.jpg';
+import botHumanImg from '../assets/bothuman.png';
 
 const projects = [
   
@@ -22,6 +23,14 @@ const projects = [
     github: 'https://github.com/Rashmika28/Portfolio_Website',
     tags: ['HTML','CSS', 'JavaScript'],
 
+  },
+  {
+    name: 'LGB: Language Model and GNN Driven Social Bot Detection',
+    image: botHumanImg,
+    description:
+      'A research-driven project combining a language model and graph neural network to detect social bots on online platforms using advanced graph analytics and NLP techniques.',
+    github: 'https://github.com/Rashmika28/LGB-Language-Model-and-Graph-Neural-Network---Driven-Social-Bot-Detection',
+    tags: ['Python', 'Machine Learning', 'GNN', 'NLP'],
   }
 ];
 

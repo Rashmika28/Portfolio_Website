@@ -37,7 +37,7 @@ function Education() {
               2022–2026 | Pursuing
             </p>
             <p className="mt-4 text-gray-700 dark:text-gray-300 text-lg">
-              <span className="font-semibold">Current CGPA:</span> 8.53
+              <span className="font-semibold">Current CGPA:</span> 8.55
             </p>
           </div>
         </div>
